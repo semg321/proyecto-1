@@ -1,0 +1,135 @@
+{
+    "devices": [
+      {
+        "id": 1,
+        "name": "Sensor de Temperatura",
+        "type": "Sensor",
+        "status": "Activo",
+        "last_update": "2024-08-24T14:30:00Z",
+        "location": "Sala Principal",
+        "battery_level": 85,
+        "metrics": {
+          "temperature": "22.5°C",
+          "humidity": "45%"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cámara de Seguridad",
+        "type": "Cámara",
+        "status": "Inactivo",
+        "last_update": "2024-08-24T12:15:00Z",
+        "location": "Entrada Principal",
+        "battery_level": 100,
+        "metrics": {
+          "resolution": "1080p",
+          "frame_rate": "30fps"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Termostato Inteligente",
+        "type": "Termostato",
+        "status": "Activo",
+        "last_update": "2024-08-24T10:00:00Z",
+        "location": "Habitación Principal",
+        "battery_level": 95,
+        "metrics": {
+          "set_temperature": "20°C",
+          "current_temperature": "21°C"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Sensor de Movimiento",
+        "type": "Sensor",
+        "status": "Activo",
+        "last_update": "2024-08-24T09:45:00Z",
+        "location": "Pasillo",
+        "battery_level": 70,
+        "metrics": {
+          "motion_detected": true,
+          "sensitivity_level": "High"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Controlador de Luz",
+        "type": "Controlador",
+        "status": "Activo",
+        "last_update": "2024-08-24T08:00:00Z",
+        "location": "Cocina",
+        "battery_level": 80,
+        "metrics": {
+          "light_status": "On",
+          "brightness_level": "75%"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Sensor de Puerta",
+        "type": "Sensor",
+        "status": "Inactivo",
+        "last_update": "2024-08-23T22:00:00Z",
+        "location": "Puerta Trasera",
+        "battery_level": 60,
+        "metrics": {
+          "door_open": false,
+          "tamper_status": "Secure"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Cámara de Timbre",
+        "type": "Cámara",
+        "status": "Activo",
+        "last_update": "2024-08-24T07:30:00Z",
+        "location": "Entrada Principal",
+        "battery_level": 90,
+        "metrics": {
+          "resolution": "720p",
+          "audio_enabled": true
+        }
+      },
+      {
+        "id": 8,
+        "name": "Medidor de Energía",
+        "type": "Medidor",
+        "status": "Activo",
+        "last_update": "2024-08-24T11:30:00Z",
+        "location": "Sala de Máquinas",
+        "battery_level": 100,
+        "metrics": {
+          "current_usage": "1500W",
+          "voltage": "230V"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Detector de Humo",
+        "type": "Detector",
+        "status": "Inactivo",
+        "last_update": "2024-08-24T01:15:00Z",
+        "location": "Garaje",
+        "battery_level": 75,
+        "metrics": {
+          "smoke_detected": false,
+          "battery_status": "Good"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Aire Acondicionado",
+        "type": "Controlador",
+        "status": "Activo",
+        "last_update": "2024-08-24T05:00:00Z",
+        "location": "Oficina",
+        "battery_level": 50,
+        "metrics": {
+          "set_temperature": "22°C",
+          "fan_speed": "Medium"
+        }
+      }
+    ]
+  }
+  
