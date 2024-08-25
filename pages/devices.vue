@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 
-import { devices } from '~/server/api/devices.json'
+import { devices } from '~/assets/data/devices.json'
 
 </script>
 
